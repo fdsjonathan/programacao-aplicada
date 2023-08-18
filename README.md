@@ -32,7 +32,7 @@
 # Aula 03 - Iniciando a aprendizagem da Linguagem C.
 Objetivo: Entrada e Saida de Dados / Tipos de dados primitivos.
 
-Praticas em Aula:
+Praticas em Aula: https://replit.com/
 
 #include <stdio.h>
 
